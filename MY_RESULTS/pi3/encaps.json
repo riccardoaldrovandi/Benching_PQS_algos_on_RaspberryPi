@@ -1,0 +1,110 @@
+{
+    "aes256gcm_128_enc_benchmark": {
+        "l1_cache_miss": 299.84,
+        "msg_len": 128.0,
+        "ram_usage": 7360.0,
+        "time_ns": 21977.52,
+        "time_us": 21.977520000000005,
+        "total_cycles": 26636.03,
+        "total_instructions": 15083.34
+    },
+    "aes256gcm_4096_enc_benchmark": {
+        "l1_cache_miss": 368.47,
+        "msg_len": 4096.0,
+        "ram_usage": 7356.0,
+        "time_ns": 166739.17,
+        "time_us": 166.73917,
+        "total_cycles": 197935.19,
+        "total_instructions": 208903.25
+    },
+    "aes256gcm_512_enc_benchmark": {
+        "l1_cache_miss": 290.02,
+        "msg_len": 512.0,
+        "ram_usage": 7360.0,
+        "time_ns": 35467.09,
+        "time_us": 35.467090000000006,
+        "total_cycles": 42998.58,
+        "total_instructions": 33801.78
+    },
+    "aes256gcm_64_enc_benchmark": {
+        "l1_cache_miss": 282.59,
+        "msg_len": 64.0,
+        "ram_usage": 7360.0,
+        "time_ns": 18618.69,
+        "time_us": 18.618689999999997,
+        "total_cycles": 23447.01,
+        "total_instructions": 13665.18
+    },
+    "ascon128_128_enc_benchmark": {
+        "l1_cache_miss": 20.13,
+        "msg_len": 128.0,
+        "ram_usage": 7348.0,
+        "time_ns": 2185.41,
+        "time_us": 2.18541,
+        "total_cycles": 3532.19,
+        "total_instructions": 2938.09
+    },
+    "ascon128_4096_enc_benchmark": {
+        "l1_cache_miss": 55.26,
+        "msg_len": 4096.0,
+        "ram_usage": 7360.0,
+        "time_ns": 26635.37,
+        "time_us": 26.635369999999995,
+        "total_cycles": 32515.77,
+        "total_instructions": 58985.7
+    },
+    "ascon128_512_enc_benchmark": {
+        "l1_cache_miss": 18.42,
+        "msg_len": 512.0,
+        "ram_usage": 7360.0,
+        "time_ns": 4451.02,
+        "time_us": 4.45102,
+        "total_cycles": 6292.44,
+        "total_instructions": 8359.62
+    },
+    "ascon128_64_enc_benchmark": {
+        "l1_cache_miss": 14.47,
+        "msg_len": 64.0,
+        "ram_usage": 7348.0,
+        "time_ns": 1733.88,
+        "time_us": 1.73388,
+        "total_cycles": 3026.57,
+        "total_instructions": 2031.16
+    },
+    "chacha20poly1305_128_enc_benchmark": {
+        "l1_cache_miss": 186.09,
+        "msg_len": 128.0,
+        "ram_usage": 7360.0,
+        "time_ns": 16863.03,
+        "time_us": 16.863029999999995,
+        "total_cycles": 21294.52,
+        "total_instructions": 11410.06
+    },
+    "chacha20poly1305_4096_enc_benchmark": {
+        "l1_cache_miss": 214.43,
+        "msg_len": 4096.0,
+        "ram_usage": 7360.0,
+        "time_ns": 37861.33,
+        "time_us": 37.86133,
+        "total_cycles": 46322.53,
+        "total_instructions": 51291.08
+    },
+    "chacha20poly1305_512_enc_benchmark": {
+        "l1_cache_miss": 195.54,
+        "msg_len": 512.0,
+        "ram_usage": 7360.0,
+        "time_ns": 20128.08,
+        "time_us": 20.12808,
+        "total_cycles": 24458.77,
+        "total_instructions": 14369.04
+    },
+    "chacha20poly1305_64_enc_benchmark": {
+        "l1_cache_miss": 185.95,
+        "msg_len": 64.0,
+        "ram_usage": 7360.0,
+        "time_ns": 16679.09,
+        "time_us": 16.679090000000002,
+        "total_cycles": 20147.89,
+        "total_instructions": 9952.69
+    }
+}

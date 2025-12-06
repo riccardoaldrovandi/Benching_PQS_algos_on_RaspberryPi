@@ -1,0 +1,56 @@
+{
+    "ed25519": {
+        "l1_cache_miss": 764.57,
+        "msg_len": 64.0,
+        "ram_usage": 7480.0,
+        "time_ns": 316126.78,
+        "time_us": 316.12677999999994,
+        "total_cycles": 369608.16,
+        "total_instructions": 394860.56
+    },
+    "falcon1024": {
+        "l1_cache_miss": 11395.81,
+        "msg_len": 4098.0,
+        "ram_usage": 7772.0,
+        "time_ns": 117658792.0,
+        "time_us": 117658.79200000002,
+        "total_cycles": 140175328.42,
+        "total_instructions": 147481528.61
+    },
+    "falcon512": {
+        "l1_cache_miss": 3239.75,
+        "msg_len": 2178.0,
+        "ram_usage": 7848.0,
+        "time_ns": 42133037.89,
+        "time_us": 42133.03789,
+        "total_cycles": 50147152.62,
+        "total_instructions": 52938785.59
+    },
+    "mldsa44": {
+        "l1_cache_miss": 693.51,
+        "msg_len": 3872.0,
+        "ram_usage": 7584.0,
+        "time_ns": 601094.82,
+        "time_us": 601.0948199999999,
+        "total_cycles": 707537.49,
+        "total_instructions": 816875.99
+    },
+    "mldsa65": {
+        "l1_cache_miss": 877.63,
+        "msg_len": 5984.0,
+        "ram_usage": 7596.0,
+        "time_ns": 987212.47,
+        "time_us": 987.21247,
+        "total_cycles": 1153234.05,
+        "total_instructions": 1366905.29
+    },
+    "mldsa87": {
+        "l1_cache_miss": 1206.25,
+        "msg_len": 7488.0,
+        "ram_usage": 7656.0,
+        "time_ns": 1551441.72,
+        "time_us": 1551.4417200000003,
+        "total_cycles": 1816344.07,
+        "total_instructions": 2229779.34
+    }
+}

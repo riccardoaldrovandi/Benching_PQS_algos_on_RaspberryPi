@@ -1,0 +1,110 @@
+{
+    "blake2b_128_kdf_benchmark": {
+        "l1_cache_miss": 116.33,
+        "msg_len": 128.0,
+        "ram_usage": 6204.0,
+        "time_ns": 270137.88,
+        "time_us": 270.13788,
+        "total_cycles": 207592.87,
+        "total_instructions": 18188.84
+    },
+    "blake2b_4096_kdf_benchmark": {
+        "l1_cache_miss": 175.58,
+        "msg_len": 4096.0,
+        "ram_usage": 6212.0,
+        "time_ns": 865083.16,
+        "time_us": 865.0831600000002,
+        "total_cycles": 627931.21,
+        "total_instructions": 171407.75
+    },
+    "blake2b_512_kdf_benchmark": {
+        "l1_cache_miss": 115.02,
+        "msg_len": 512.0,
+        "ram_usage": 6204.0,
+        "time_ns": 337057.32,
+        "time_us": 337.05732000000006,
+        "total_cycles": 254175.19,
+        "total_instructions": 33106.32
+    },
+    "blake2b_64_kdf_benchmark": {
+        "l1_cache_miss": 97.64,
+        "msg_len": 64.0,
+        "ram_usage": 6208.0,
+        "time_ns": 217858.34,
+        "time_us": 217.85834,
+        "total_cycles": 177211.04,
+        "total_instructions": 12750.93
+    },
+    "shake128_128_kdf_benchmark": {
+        "l1_cache_miss": 87.73,
+        "msg_len": 128.0,
+        "ram_usage": 6264.0,
+        "time_ns": 158028.77,
+        "time_us": 158.02877,
+        "total_cycles": 131282.15,
+        "total_instructions": 18126.82
+    },
+    "shake128_4096_kdf_benchmark": {
+        "l1_cache_miss": 169.81,
+        "msg_len": 4096.0,
+        "ram_usage": 6268.0,
+        "time_ns": 590485.26,
+        "time_us": 590.4852599999999,
+        "total_cycles": 435681.42,
+        "total_instructions": 277424.77
+    },
+    "shake128_512_kdf_benchmark": {
+        "l1_cache_miss": 95.21,
+        "msg_len": 512.0,
+        "ram_usage": 6264.0,
+        "time_ns": 216098.26,
+        "time_us": 216.09826,
+        "total_cycles": 171792.56,
+        "total_instructions": 50571.84
+    },
+    "shake128_64_kdf_benchmark": {
+        "l1_cache_miss": 89.16,
+        "msg_len": 64.0,
+        "ram_usage": 6264.0,
+        "time_ns": 159558.79,
+        "time_us": 159.55879,
+        "total_cycles": 133854.81,
+        "total_instructions": 18127.39
+    },
+    "shake256_128_kdf_benchmark": {
+        "l1_cache_miss": 110.08,
+        "msg_len": 128.0,
+        "ram_usage": 6264.0,
+        "time_ns": 178588.61,
+        "time_us": 178.58861000000002,
+        "total_cycles": 147034.77,
+        "total_instructions": 28898.97
+    },
+    "shake256_4096_kdf_benchmark": {
+        "l1_cache_miss": 160.43,
+        "msg_len": 4096.0,
+        "ram_usage": 6268.0,
+        "time_ns": 770703.94,
+        "time_us": 770.7039399999999,
+        "total_cycles": 495813.14,
+        "total_instructions": 334669.92
+    },
+    "shake256_512_kdf_benchmark": {
+        "l1_cache_miss": 108.56,
+        "msg_len": 512.0,
+        "ram_usage": 6264.0,
+        "time_ns": 215968.3,
+        "time_us": 215.96830000000003,
+        "total_cycles": 172094.66,
+        "total_instructions": 49914.55
+    },
+    "shake256_64_kdf_benchmark": {
+        "l1_cache_miss": 96.31,
+        "msg_len": 64.0,
+        "ram_usage": 6264.0,
+        "time_ns": 160478.71,
+        "time_us": 160.47870999999998,
+        "total_cycles": 132665.67,
+        "total_instructions": 17870.59
+    }
+}

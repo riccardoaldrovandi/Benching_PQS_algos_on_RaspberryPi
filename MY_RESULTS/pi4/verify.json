@@ -1,0 +1,218 @@
+{
+    "ed25519_128_verify_benchmark": {
+        "l1_cache_miss": 481.31,
+        "msg_len": 128.0,
+        "ram_usage": 7640.0,
+        "time_ns": 355885.68,
+        "time_us": 355.88568,
+        "total_cycles": 531443.49,
+        "total_instructions": 830417.43
+    },
+    "ed25519_4096_verify_benchmark": {
+        "l1_cache_miss": 515.26,
+        "msg_len": 4096.0,
+        "ram_usage": 7640.0,
+        "time_ns": 377879.46,
+        "time_us": 377.87945999999994,
+        "total_cycles": 563529.83,
+        "total_instructions": 907368.6
+    },
+    "ed25519_512_verify_benchmark": {
+        "l1_cache_miss": 526.32,
+        "msg_len": 512.0,
+        "ram_usage": 7640.0,
+        "time_ns": 361920.62,
+        "time_us": 361.92061999999993,
+        "total_cycles": 537794.62,
+        "total_instructions": 838738.43
+    },
+    "ed25519_64_verify_benchmark": {
+        "l1_cache_miss": 470.52,
+        "msg_len": 64.0,
+        "ram_usage": 7640.0,
+        "time_ns": 359891.32,
+        "time_us": 359.8913199999999,
+        "total_cycles": 534640.92,
+        "total_instructions": 833104.43
+    },
+    "falcon1024_128_verify_benchmark": {
+        "l1_cache_miss": 339.16,
+        "msg_len": 128.0,
+        "ram_usage": 7884.0,
+        "time_ns": 225426.14,
+        "time_us": 225.42613999999998,
+        "total_cycles": 336236.84,
+        "total_instructions": 686035.83
+    },
+    "falcon1024_4096_verify_benchmark": {
+        "l1_cache_miss": 375.26,
+        "msg_len": 4096.0,
+        "ram_usage": 7884.0,
+        "time_ns": 258192.46,
+        "time_us": 258.19246,
+        "total_cycles": 384473.72,
+        "total_instructions": 786636.83
+    },
+    "falcon1024_512_verify_benchmark": {
+        "l1_cache_miss": 415.52,
+        "msg_len": 512.0,
+        "ram_usage": 7876.0,
+        "time_ns": 228342.65,
+        "time_us": 228.34265,
+        "total_cycles": 342439.15,
+        "total_instructions": 696401.83
+    },
+    "falcon1024_64_verify_benchmark": {
+        "l1_cache_miss": 336.59,
+        "msg_len": 64.0,
+        "ram_usage": 7884.0,
+        "time_ns": 223799.42,
+        "time_us": 223.79941999999994,
+        "total_cycles": 335095.52,
+        "total_instructions": 682436.83
+    },
+    "falcon512_128_verify_benchmark": {
+        "l1_cache_miss": 255.03,
+        "msg_len": 128.0,
+        "ram_usage": 7872.0,
+        "time_ns": 116112.01,
+        "time_us": 116.11201000000001,
+        "total_cycles": 174222.14,
+        "total_instructions": 354194.83
+    },
+    "falcon512_4096_verify_benchmark": {
+        "l1_cache_miss": 288.33,
+        "msg_len": 4096.0,
+        "ram_usage": 7880.0,
+        "time_ns": 147900.54,
+        "time_us": 147.90054,
+        "total_cycles": 221842.41,
+        "total_instructions": 454363.83
+    },
+    "falcon512_512_verify_benchmark": {
+        "l1_cache_miss": 262.07,
+        "msg_len": 512.0,
+        "ram_usage": 7884.0,
+        "time_ns": 121376.0,
+        "time_us": 121.37599999999999,
+        "total_cycles": 179349.98,
+        "total_instructions": 364491.83
+    },
+    "falcon512_64_verify_benchmark": {
+        "l1_cache_miss": 247.13,
+        "msg_len": 64.0,
+        "ram_usage": 7884.0,
+        "time_ns": 114873.92,
+        "time_us": 114.87392,
+        "total_cycles": 173027.07,
+        "total_instructions": 350389.83
+    },
+    "mldsa44_128_verify_benchmark": {
+        "l1_cache_miss": 789.69,
+        "msg_len": 128.0,
+        "ram_usage": 7636.0,
+        "time_ns": 280417.14,
+        "time_us": 280.41713999999996,
+        "total_cycles": 415347.35,
+        "total_instructions": 917867.83
+    },
+    "mldsa44_4096_verify_benchmark": {
+        "l1_cache_miss": 567.57,
+        "msg_len": 4096.0,
+        "ram_usage": 7640.0,
+        "time_ns": 312503.73,
+        "time_us": 312.50373,
+        "total_cycles": 462665.82,
+        "total_instructions": 1018918.83
+    },
+    "mldsa44_512_verify_benchmark": {
+        "l1_cache_miss": 694.86,
+        "msg_len": 512.0,
+        "ram_usage": 7640.0,
+        "time_ns": 281295.14,
+        "time_us": 281.29513999999995,
+        "total_cycles": 419383.66,
+        "total_instructions": 928609.27
+    },
+    "mldsa44_64_verify_benchmark": {
+        "l1_cache_miss": 645.15,
+        "msg_len": 64.0,
+        "ram_usage": 7640.0,
+        "time_ns": 278713.64,
+        "time_us": 278.71364,
+        "total_cycles": 412664.75,
+        "total_instructions": 914202.83
+    },
+    "mldsa65_128_verify_benchmark": {
+        "l1_cache_miss": 805.69,
+        "msg_len": 128.0,
+        "ram_usage": 7640.0,
+        "time_ns": 442482.82,
+        "time_us": 442.48282000000006,
+        "total_cycles": 657498.53,
+        "total_instructions": 1464141.83
+    },
+    "mldsa65_4096_verify_benchmark": {
+        "l1_cache_miss": 1004.08,
+        "msg_len": 4096.0,
+        "ram_usage": 7640.0,
+        "time_ns": 473501.12,
+        "time_us": 473.50112,
+        "total_cycles": 704886.33,
+        "total_instructions": 1565164.83
+    },
+    "mldsa65_512_verify_benchmark": {
+        "l1_cache_miss": 1186.77,
+        "msg_len": 512.0,
+        "ram_usage": 7640.0,
+        "time_ns": 445372.39,
+        "time_us": 445.37239,
+        "total_cycles": 662710.48,
+        "total_instructions": 1474516.83
+    },
+    "mldsa65_64_verify_benchmark": {
+        "l1_cache_miss": 741.31,
+        "msg_len": 64.0,
+        "ram_usage": 7640.0,
+        "time_ns": 440544.89,
+        "time_us": 440.54489,
+        "total_cycles": 655838.52,
+        "total_instructions": 1460306.83
+    },
+    "mldsa87_128_verify_benchmark": {
+        "l1_cache_miss": 1360.19,
+        "msg_len": 128.0,
+        "ram_usage": 7828.0,
+        "time_ns": 721091.68,
+        "time_us": 721.0916799999998,
+        "total_cycles": 1069423.98,
+        "total_instructions": 2378558.83
+    },
+    "mldsa87_4096_verify_benchmark": {
+        "l1_cache_miss": 1633.61,
+        "msg_len": 4096.0,
+        "ram_usage": 7828.0,
+        "time_ns": 751756.85,
+        "time_us": 751.75685,
+        "total_cycles": 1117758.3,
+        "total_instructions": 2479544.83
+    },
+    "mldsa87_512_verify_benchmark": {
+        "l1_cache_miss": 1296.06,
+        "msg_len": 512.0,
+        "ram_usage": 7700.0,
+        "time_ns": 722128.73,
+        "time_us": 722.1287299999999,
+        "total_cycles": 1073632.85,
+        "total_instructions": 2389223.83
+    },
+    "mldsa87_64_verify_benchmark": {
+        "l1_cache_miss": 1273.13,
+        "msg_len": 64.0,
+        "ram_usage": 7828.0,
+        "time_ns": 717597.81,
+        "time_us": 717.59781,
+        "total_cycles": 1068282.5,
+        "total_instructions": 2375064.83
+    }
+}

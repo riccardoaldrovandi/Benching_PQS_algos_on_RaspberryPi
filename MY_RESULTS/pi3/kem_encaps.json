@@ -1,0 +1,119 @@
+{
+    "bike_l1_kemencaps_benchmark": {
+        "l1_cache_miss": 755.91,
+        "msg_len": 1605.0,
+        "ram_usage": 7612.0,
+        "time_ns": 5804974.07,
+        "time_us": 5804.974070000001,
+        "total_cycles": 6898377.05,
+        "total_instructions": 6769562.49
+    },
+    "bike_l3_kemencaps_benchmark": {
+        "l1_cache_miss": 1690.75,
+        "msg_len": 3147.0,
+        "ram_usage": 7612.0,
+        "time_ns": 17807317.8,
+        "time_us": 17807.3178,
+        "total_cycles": 21186939.17,
+        "total_instructions": 20733155.7
+    },
+    "cm348864_kemencaps_benchmark": {
+        "l1_cache_miss": 487.89,
+        "msg_len": 128.0,
+        "ram_usage": 8244.0,
+        "time_ns": 453931.25,
+        "time_us": 453.9312500000001,
+        "total_cycles": 526228.4,
+        "total_instructions": 385449.88
+    },
+    "cm6688128_kemencaps_benchmark": {
+        "l1_cache_miss": 893.4,
+        "msg_len": 240.0,
+        "ram_usage": 10160.0,
+        "time_ns": 1821538.28,
+        "time_us": 1821.53828,
+        "total_cycles": 2134591.44,
+        "total_instructions": 1539172.87
+    },
+    "frodokem640aes_kemencaps_benchmark": {
+        "l1_cache_miss": 27399.67,
+        "msg_len": 9736.0,
+        "ram_usage": 7740.0,
+        "time_ns": 19474662.49,
+        "time_us": 19474.662489999995,
+        "total_cycles": 23155651.29,
+        "total_instructions": 21298470.1
+    },
+    "frodokem976aes_kemencaps_benchmark": {
+        "l1_cache_miss": 75908.94,
+        "msg_len": 15768.0,
+        "ram_usage": 7852.0,
+        "time_ns": 44514593.15,
+        "time_us": 44514.593149999986,
+        "total_cycles": 52934164.18,
+        "total_instructions": 48059632.63
+    },
+    "mlkem1024_kemencaps_benchmark": {
+        "l1_cache_miss": 777.82,
+        "msg_len": 1600.0,
+        "ram_usage": 7672.0,
+        "time_ns": 220605.74,
+        "time_us": 220.60574,
+        "total_cycles": 257624.46,
+        "total_instructions": 321116.69
+    },
+    "mlkem512_kemencaps_benchmark": {
+        "l1_cache_miss": 529.31,
+        "msg_len": 800.0,
+        "ram_usage": 7732.0,
+        "time_ns": 108568.75,
+        "time_us": 108.56874999999997,
+        "total_cycles": 125193.06,
+        "total_instructions": 137176.21
+    },
+    "mlkem768_kemencaps_benchmark": {
+        "l1_cache_miss": 599.94,
+        "msg_len": 1120.0,
+        "ram_usage": 7732.0,
+        "time_ns": 153136.81,
+        "time_us": 153.13681000000003,
+        "total_cycles": 180914.05,
+        "total_instructions": 213738.06
+    },
+    "ntru_hps2048509_kemencaps_benchmark": {
+        "l1_cache_miss": 573.69,
+        "msg_len": 731.0,
+        "ram_usage": 7596.0,
+        "time_ns": 354606.67,
+        "time_us": 354.60666999999995,
+        "total_cycles": 417696.18,
+        "total_instructions": 354400.23
+    },
+    "ntru_hps4096821_kemencaps_benchmark": {
+        "l1_cache_miss": 648.49,
+        "msg_len": 1262.0,
+        "ram_usage": 7608.0,
+        "time_ns": 661793.21,
+        "time_us": 661.7932099999999,
+        "total_cycles": 773598.46,
+        "total_instructions": 623248.97
+    },
+    "ntru_hrss701_kemencaps_benchmark": {
+        "l1_cache_miss": 552.94,
+        "msg_len": 1170.0,
+        "ram_usage": 7612.0,
+        "time_ns": 320821.92,
+        "time_us": 320.82192,
+        "total_cycles": 377062.36,
+        "total_instructions": 263008.92
+    },
+    "sntrup761_kemencaps_benchmark": {
+        "l1_cache_miss": 575.65,
+        "msg_len": 1071.0,
+        "ram_usage": 7612.0,
+        "time_ns": 992382.81,
+        "time_us": 992.3828099999998,
+        "total_cycles": 1170972.82,
+        "total_instructions": 947156.05
+    }
+}

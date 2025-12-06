@@ -1,0 +1,128 @@
+{
+    "cm348864_kemdecaps_benchmark": {
+        "l1_cache_miss": 8125.77,
+        "msg_len": 128.0,
+        "ram_usage": 7384.0,
+        "time_ns": 316716314.84,
+        "time_us": 316716.31484000006,
+        "total_cycles": 217794868.92,
+        "total_instructions": 149348222.63
+    },
+    "cm6688128_kemdecaps_benchmark": {
+        "l1_cache_miss": 32444.49,
+        "msg_len": 240.0,
+        "ram_usage": 9332.0,
+        "time_ns": 1413357187.04,
+        "time_us": 1413357.1870399998,
+        "total_cycles": 972062517.15,
+        "total_instructions": 618990999.32
+    },
+    "frodokem640aes_kemdecaps_benchmark": {
+        "l1_cache_miss": 17912.96,
+        "msg_len": 9736.0,
+        "ram_usage": 6860.0,
+        "time_ns": 144223537.56,
+        "time_us": 144223.53756,
+        "total_cycles": 99264314.18,
+        "total_instructions": 50776129.67
+    },
+    "frodokem976aes_kemdecaps_benchmark": {
+        "l1_cache_miss": 42527.32,
+        "msg_len": 15768.0,
+        "ram_usage": 6936.0,
+        "time_ns": 325375436.9,
+        "time_us": 325375.43690000003,
+        "total_cycles": 223482466.13,
+        "total_instructions": 114568891.17
+    },
+    "hqc128_kemdecaps_benchmark": {
+        "l1_cache_miss": 43757.73,
+        "msg_len": 4497.0,
+        "ram_usage": 6896.0,
+        "time_ns": 1356710566.65,
+        "time_us": 1356710.56665,
+        "total_cycles": 932947617.56,
+        "total_instructions": 645539852.45
+    },
+    "hqc192_kemdecaps_benchmark": {
+        "l1_cache_miss": 115351.23,
+        "msg_len": 9042.0,
+        "ram_usage": 6952.0,
+        "time_ns": 4056844328.3,
+        "time_us": 4056844.3282999997,
+        "total_cycles": 2789435152.38,
+        "total_instructions": 1944781808.06
+    },
+    "hqc256_kemdecaps_benchmark": {
+        "l1_cache_miss": 222088.11,
+        "msg_len": 14485.0,
+        "ram_usage": 7032.0,
+        "time_ns": 7451373606.43,
+        "time_us": 7451373.60643,
+        "total_cycles": 5123495986.25,
+        "total_instructions": 3572040839.69
+    },
+    "mlkem1024_kemdecaps_benchmark": {
+        "l1_cache_miss": 1125.94,
+        "msg_len": 1600.0,
+        "ram_usage": 6812.0,
+        "time_ns": 14485812.11,
+        "time_us": 14485.812110000004,
+        "total_cycles": 9940069.01,
+        "total_instructions": 1942497.87
+    },
+    "mlkem512_kemdecaps_benchmark": {
+        "l1_cache_miss": 623.13,
+        "msg_len": 800.0,
+        "ram_usage": 6740.0,
+        "time_ns": 6434695.44,
+        "time_us": 6434.695439999998,
+        "total_cycles": 4425020.05,
+        "total_instructions": 884017.0
+    },
+    "mlkem768_kemdecaps_benchmark": {
+        "l1_cache_miss": 843.61,
+        "msg_len": 1120.0,
+        "ram_usage": 6740.0,
+        "time_ns": 9735087.69,
+        "time_us": 9735.08769,
+        "total_cycles": 6757577.09,
+        "total_instructions": 1344890.97
+    },
+    "ntru_hps2048509_kemdecaps_benchmark": {
+        "l1_cache_miss": 527.1,
+        "msg_len": 731.0,
+        "ram_usage": 6680.0,
+        "time_ns": 4921860.17,
+        "time_us": 4921.860170000001,
+        "total_cycles": 3474411.24,
+        "total_instructions": 1857284.48
+    },
+    "ntru_hps4096821_kemdecaps_benchmark": {
+        "l1_cache_miss": 1066.62,
+        "msg_len": 1262.0,
+        "ram_usage": 6688.0,
+        "time_ns": 10558594.63,
+        "time_us": 10558.594630000001,
+        "total_cycles": 7379213.26,
+        "total_instructions": 4390639.61
+    },
+    "ntru_hrss701_kemdecaps_benchmark": {
+        "l1_cache_miss": 961.17,
+        "msg_len": 1170.0,
+        "ram_usage": 6760.0,
+        "time_ns": 8486451.41,
+        "time_us": 8486.451410000001,
+        "total_cycles": 5853390.25,
+        "total_instructions": 3308052.89
+    },
+    "sntrup761_kemdecaps_benchmark": {
+        "l1_cache_miss": 1312.41,
+        "msg_len": 1071.0,
+        "ram_usage": 6616.0,
+        "time_ns": 23829387.48,
+        "time_us": 23829.38748,
+        "total_cycles": 16430090.09,
+        "total_instructions": 11624614.24
+    }
+}

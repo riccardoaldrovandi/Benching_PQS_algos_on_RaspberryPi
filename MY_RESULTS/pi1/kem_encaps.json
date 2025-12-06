@@ -1,0 +1,128 @@
+{
+    "cm348864_kemencaps_benchmark": {
+        "l1_cache_miss": 758.13,
+        "msg_len": 128.0,
+        "ram_usage": 7324.0,
+        "time_ns": 3449642.63,
+        "time_us": 3449.6426300000003,
+        "total_cycles": 2436474.85,
+        "total_instructions": 1111061.73
+    },
+    "cm6688128_kemencaps_benchmark": {
+        "l1_cache_miss": 2168.96,
+        "msg_len": 240.0,
+        "ram_usage": 9272.0,
+        "time_ns": 11395799.04,
+        "time_us": 11395.799039999998,
+        "total_cycles": 7852871.87,
+        "total_instructions": 4308119.95
+    },
+    "frodokem640aes_kemencaps_benchmark": {
+        "l1_cache_miss": 18525.56,
+        "msg_len": 9736.0,
+        "ram_usage": 6840.0,
+        "time_ns": 151448678.83,
+        "time_us": 151448.67883,
+        "total_cycles": 104136726.07,
+        "total_instructions": 51456078.52
+    },
+    "frodokem976aes_kemencaps_benchmark": {
+        "l1_cache_miss": 45270.47,
+        "msg_len": 15768.0,
+        "ram_usage": 6904.0,
+        "time_ns": 340873450.41,
+        "time_us": 340873.45041,
+        "total_cycles": 234112304.43,
+        "total_instructions": 116060827.4
+    },
+    "hqc128_kemencaps_benchmark": {
+        "l1_cache_miss": 29204.44,
+        "msg_len": 4497.0,
+        "ram_usage": 6904.0,
+        "time_ns": 877017842.11,
+        "time_us": 877017.84211,
+        "total_cycles": 602962318.12,
+        "total_instructions": 418655652.45
+    },
+    "hqc192_kemencaps_benchmark": {
+        "l1_cache_miss": 80795.13,
+        "msg_len": 9042.0,
+        "ram_usage": 6944.0,
+        "time_ns": 2671298886.03,
+        "time_us": 2671298.8860299997,
+        "total_cycles": 1836028309.78,
+        "total_instructions": 1281368121.38
+    },
+    "hqc256_kemencaps_benchmark": {
+        "l1_cache_miss": 155931.72,
+        "msg_len": 14485.0,
+        "ram_usage": 7016.0,
+        "time_ns": 4880510756.76,
+        "time_us": 4880510.75676,
+        "total_cycles": 3355738998.6,
+        "total_instructions": 2343505065.04
+    },
+    "mlkem1024_kemencaps_benchmark": {
+        "l1_cache_miss": 990.56,
+        "msg_len": 1600.0,
+        "ram_usage": 6812.0,
+        "time_ns": 12214437.97,
+        "time_us": 12214.437969999997,
+        "total_cycles": 8518496.67,
+        "total_instructions": 1630163.54
+    },
+    "mlkem512_kemencaps_benchmark": {
+        "l1_cache_miss": 541.2,
+        "msg_len": 800.0,
+        "ram_usage": 6740.0,
+        "time_ns": 5254778.98,
+        "time_us": 5254.778979999999,
+        "total_cycles": 3702944.37,
+        "total_instructions": 709885.44
+    },
+    "mlkem768_kemencaps_benchmark": {
+        "l1_cache_miss": 754.99,
+        "msg_len": 1120.0,
+        "ram_usage": 6740.0,
+        "time_ns": 8296551.16,
+        "time_us": 8296.551159999999,
+        "total_cycles": 5703224.82,
+        "total_instructions": 1102331.32
+    },
+    "ntru_hps2048509_kemencaps_benchmark": {
+        "l1_cache_miss": 425.03,
+        "msg_len": 731.0,
+        "ram_usage": 6680.0,
+        "time_ns": 2501296.59,
+        "time_us": 2501.2965900000004,
+        "total_cycles": 1776629.66,
+        "total_instructions": 950633.68
+    },
+    "ntru_hps4096821_kemencaps_benchmark": {
+        "l1_cache_miss": 603.56,
+        "msg_len": 1262.0,
+        "ram_usage": 6688.0,
+        "time_ns": 4698484.87,
+        "time_us": 4698.484869999999,
+        "total_cycles": 3321212.11,
+        "total_instructions": 2032605.22
+    },
+    "ntru_hrss701_kemencaps_benchmark": {
+        "l1_cache_miss": 446.9,
+        "msg_len": 1170.0,
+        "ram_usage": 6748.0,
+        "time_ns": 3215712.78,
+        "time_us": 3215.71278,
+        "total_cycles": 2278654.84,
+        "total_instructions": 1222788.58
+    },
+    "sntrup761_kemencaps_benchmark": {
+        "l1_cache_miss": 711.13,
+        "msg_len": 1071.0,
+        "ram_usage": 6616.0,
+        "time_ns": 7252061.19,
+        "time_us": 7252.061190000003,
+        "total_cycles": 4987209.46,
+        "total_instructions": 3803716.76
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "bike_l1": {
+        "l1_cache_miss": 8130.39,
+        "msg_len": 6764.0,
+        "ram_usage": 7540.0,
+        "time_ns": 92913225.01,
+        "time_us": 92913.22500999998,
+        "total_cycles": 129167908.79,
+        "total_instructions": 123539320.99
+    },
+    "bike_l3": {
+        "l1_cache_miss": 17591.27,
+        "msg_len": 13188.0,
+        "ram_usage": 7540.0,
+        "time_ns": 314243290.06,
+        "time_us": 314243.29006,
+        "total_cycles": 401200411.39,
+        "total_instructions": 383839518.46
+    },
+    "cm348864": {
+        "l1_cache_miss": 734456.01,
+        "msg_len": 267612.0,
+        "ram_usage": 8304.0,
+        "time_ns": 1246097716.03,
+        "time_us": 1246097.71603,
+        "total_cycles": 1490908598.6,
+        "total_instructions": 1200358303.87
+    },
+    "cm6688128": {
+        "l1_cache_miss": 5423483.68,
+        "msg_len": 1058924.0,
+        "ram_usage": 10100.0,
+        "time_ns": 10584443498.29,
+        "time_us": 10584443.498289999,
+        "total_cycles": 12474610228.27,
+        "total_instructions": 7466559580.94
+    },
+    "frodokem640aes": {
+        "l1_cache_miss": 9813.51,
+        "msg_len": 29504.0,
+        "ram_usage": 7660.0,
+        "time_ns": 18825608.58,
+        "time_us": 18825.608579999996,
+        "total_cycles": 22374043.42,
+        "total_instructions": 20416085.63
+    },
+    "frodokem976aes": {
+        "l1_cache_miss": 59319.24,
+        "msg_len": 46928.0,
+        "ram_usage": 7796.0,
+        "time_ns": 43443550.44,
+        "time_us": 43443.55044,
+        "total_cycles": 51689283.4,
+        "total_instructions": 46470223.99
+    },
+    "mlkem1024": {
+        "l1_cache_miss": 989.17,
+        "msg_len": 4736.0,
+        "ram_usage": 7724.0,
+        "time_ns": 261181.15,
+        "time_us": 261.18115,
+        "total_cycles": 336717.86,
+        "total_instructions": 375389.62
+    },
+    "mlkem512": {
+        "l1_cache_miss": 759.37,
+        "msg_len": 2432.0,
+        "ram_usage": 7656.0,
+        "time_ns": 165012.64,
+        "time_us": 165.01264,
+        "total_cycles": 208817.4,
+        "total_instructions": 196499.66
+    },
+    "mlkem768": {
+        "l1_cache_miss": 789.0,
+        "msg_len": 3584.0,
+        "ram_usage": 7600.0,
+        "time_ns": 208898.4,
+        "time_us": 208.8984,
+        "total_cycles": 266875.77,
+        "total_instructions": 275148.91
+    },
+    "ntru_hps2048509": {
+        "l1_cache_miss": 2018.88,
+        "msg_len": 1634.0,
+        "ram_usage": 7412.0,
+        "time_ns": 8259606.56,
+        "time_us": 8259.60656,
+        "total_cycles": 9804902.27,
+        "total_instructions": 6802786.51
+    },
+    "ntru_hps4096821": {
+        "l1_cache_miss": 3446.73,
+        "msg_len": 2820.0,
+        "ram_usage": 7532.0,
+        "time_ns": 20120225.12,
+        "time_us": 20120.225120000003,
+        "total_cycles": 23929056.97,
+        "total_instructions": 15952127.79
+    },
+    "ntru_hrss701": {
+        "l1_cache_miss": 2106.03,
+        "msg_len": 2588.0,
+        "ram_usage": 7352.0,
+        "time_ns": 14617719.55,
+        "time_us": 14617.719549999998,
+        "total_cycles": 17369801.96,
+        "total_instructions": 11671680.96
+    },
+    "sntrup761": {
+        "l1_cache_miss": 1386.5,
+        "msg_len": 2921.0,
+        "ram_usage": 7540.0,
+        "time_ns": 25308129.4,
+        "time_us": 25308.129399999998,
+        "total_cycles": 30123239.59,
+        "total_instructions": 21936988.99
+    },
+    "x25519": {
+        "l1_cache_miss": 716.66,
+        "msg_len": 32.0,
+        "ram_usage": 7476.0,
+        "time_ns": 771287.46,
+        "time_us": 771.28746,
+        "total_cycles": 905688.46,
+        "total_instructions": 815677.25
+    }
+}
