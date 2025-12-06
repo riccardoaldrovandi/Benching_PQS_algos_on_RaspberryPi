@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".als.json": "jsonc",
+        "stdint.h": "c"
+    },
+    "makefile.configureOnOpen": true
+}
