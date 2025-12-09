@@ -1,7 +1,7 @@
 README.md
 PQC Benchmark Suite
 
-Benchmarking Post-Quantum and Classical Cryptography (KEM, Signatures, Hash, KDF) on Raspberry Pi
+Benchmarking Post-Quantum and Classical Cryptography (KEM, Signatures, Hash, KDF, Symmetric) on Raspberry Pi
 
 This project provides a modular C-based benchmarking framework designed to evaluate and compare Post-Quantum Cryptography (PQC) algorithms and traditional/classical algorithms across different Raspberry Pi architectures.
 It is engineered to run efficiently on RPi 1 / 3 / 4 / 5, supporting both 32-bit and 64-bit OS installations.
