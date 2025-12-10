@@ -72,7 +72,7 @@ def generate_latex_stats_table(all_files_data, final_results_folder):
     (mean, std, median, min, max) for all subfolders and files.
     First column: 'subfolder/file', then columns for each metric.
     """
-    latex_filename = os.path.join(final_results_folder, "final_results_stats_table.tex")
+    latex_filename = os.path.join(final_results_folder, "allstats_final_results_stats_table.tex")
     with open(latex_filename, 'w') as tex_file:
         tex_file.write("\\begin{table}[ht]\n\\centering\n")
         tex_file.write("\\footnotesize\n")
@@ -104,7 +104,7 @@ def generate_latex_stats_table(all_files_data, final_results_folder):
         # costruisci specifica colonne LaTeX (1 colonna testo + resto numerico)
         num_cols = 1 + len(main_fields) * 5
         col_spec = "l" + "r" * (num_cols - 1)
-        tex_file.write(f"\\begin{tabular}{{{col_spec}}}\n\\toprule\n")
+        tex_file.write(f"\\begin{{tabular}}{{{col_spec}}}\n\\toprule\n")
 
         # riga header
         tex_file.write(" & ".join(header_cols) + " \\\\ \\midrule\n")
@@ -179,7 +179,7 @@ def process_results(root_folder):
 
     if all_files_data:
         generate_latex_stats_table(all_files_data, final_results_folder)
-        print("LaTeX statistics table generated in 'result/final_results/final_results_stats_table.tex'.")
+        print("LaTeX statistics table generated in 'result/final_results/allstats_final_results_stats_table.tex'.")
     else:
         print("No CSV data found to process.")
 
